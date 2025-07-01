@@ -3,7 +3,7 @@ title = "Your Name"
 theme = "Tranquilpeak"
 
 [params]
-  sidebarBehavior = 1
+  sidebarBehavior = 4
   ga = { async = false }
   
   [params.author]
