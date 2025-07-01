@@ -1,0 +1,6 @@
+baseURL = "http://localhost:1313/"
+title = "My New Hugo Site"
+theme = "Tranquilpeak"
+
+[params]
+ga = { async = false } 
