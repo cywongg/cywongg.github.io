@@ -1,4 +1,6 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://cywongg.github.io/jcywong.io/"
+relativeURLs = true
+canonifyURLs = true
 title = "Your Name"
 theme = "Tranquilpeak"
 
@@ -17,35 +19,35 @@ theme = "Tranquilpeak"
   identifier = "home"
   name = "Home"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
-  url = "/"
+  url = ""
 
 [[menu.main]]
   weight = 2
   identifier = "projects"
   name = "Projects"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-code\"></i>"
-  url = "/categories/projects"
+  url = "categories/projects"
 
 [[menu.main]]
   weight = 3
   identifier = "blog"
   name = "Blog"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-pen-square\"></i>"
-  url = "/categories/blog"
+  url = "categories/blog"
 
 [[menu.main]]
   weight = 4
   identifier = "tags"
   name = "Tags"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
-  url = "/tags"
+  url = "tags"
 
 [[menu.main]]
   weight = 5
   identifier = "about"
   name = "About"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-user\"></i>"
-  url = "/about"
+  url = "about"
 
 # Social links (sidebar)
 [[menu.links]]
