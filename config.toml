@@ -1,7 +1,7 @@
-baseURL = "https://cywongg.github.io/jcywong.io/"
+baseURL = "https://cywongg.github.io/"
 relativeURLs = true
 canonifyURLs = true
-title = "Your Name"
+title = "jcywong.io"
 theme = "Tranquilpeak"
 
 [params]
